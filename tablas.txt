@@ -1,0 +1,23 @@
+Base de datos radioestaciones:
+Tabla usuario:
+- idusuario
+- nombre
+- apellidos
+- email
+- user
+- clave
+- pais
+- foto
+- estado
+
+
+Tabla estacion:
+- idestacion
+- nombrestacion
+- detallestacion
+- categoria
+- url
+- pais
+- estado
+
+
